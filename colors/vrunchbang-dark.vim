@@ -86,9 +86,6 @@ endif
 " run theme-setting script if using terminal vim
 if !has('gui_running')
   execute 'silent !/bin/sh $HOME/.nightshell/vrunchbang-dark'
-  "autocmd CursorMoved * execute 'if !exists("colors_name") |
-  "      \ let colors_name = "vrunchbang-dark" |
-  "      \ colorscheme vrunchbang-dark | endif'
 endif
 
 " clear old theme, activate new
