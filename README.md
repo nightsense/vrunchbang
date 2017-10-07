@@ -5,18 +5,11 @@
 <h2 id="screenshots">screenshots</h2>
 
 <table>
-  <thead>
-    <tr>
-      <th style="text-align: center">vrunchbang-dark</th>
-      <th style="text-align: center">vrunchbang-light</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center"><img src="/img/screenshot-vrunchbang-dark.png" alt="screenshot of the vrunchbang-dark vim theme" width="288" /></td>
-      <td style="text-align: center"><img src="/img/screenshot-vrunchbang-light.png" alt="screenshot of the vrunchbang-light vim theme" width="288" /></td>
-    </tr>
-  </tbody>
+<tr><td align="center"><strong>vrunchbang-<br />dark</strong></td><td align="center"><strong>vrunchbang-<br />light</strong></td></tr>
+<tr>
+<td><img src="/img/screenshot-vrunchbang-dark.png" alt="screenshot of the vrunchbang-dark vim theme" width="288" /></td>
+<td align="center"><img src="/img/screenshot-vrunchbang-light.png" alt="screenshot of the vrunchbang-light vim theme" width="288" /></td>
+</tr>
 </table>
 
 <blockquote>
