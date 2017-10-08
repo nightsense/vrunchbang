@@ -16,14 +16,14 @@ let s:g4 = '657175'
 let s:g5 = '485154'
 let s:g6 = '3b4245'
 let s:g7 = '2e3436'
-let s:g8 = 'eb3a3a'
+let s:g8 = 'eb3b3b'
 let s:g9 = 'e07426'
-let s:gA = 'c9af42'
-let s:gB = '25942e'
-let s:gC = '0c9489'
+let s:gA = 'ebbf3b'
+let s:gB = '289e31'
+let s:gC = '289e8a'
 let s:gD = '3083bf'
-let s:gE = '8760bf'
-let s:gF = 'e05e85'
+let s:gE = '8f69b5'
+let s:gF = 'e05e8a'
 
 " terminal colours
 let s:t0 = '00'
@@ -46,12 +46,12 @@ let s:tF = '14'
 " neovim colours
 if has('nvim')
   let g:terminal_color_0 =  '#ffffff'
-  let g:terminal_color_1 =  '#eb3a3a'
-  let g:terminal_color_2 =  '#25942e'
-  let g:terminal_color_3 =  '#c9af42'
+  let g:terminal_color_1 =  '#eb3b3b'
+  let g:terminal_color_2 =  '#289e31'
+  let g:terminal_color_3 =  '#ebbf3b'
   let g:terminal_color_4 =  '#3083bf'
-  let g:terminal_color_5 =  '#8760bf'
-  let g:terminal_color_6 =  '#0c9489'
+  let g:terminal_color_5 =  '#8f69b5'
+  let g:terminal_color_6 =  '#289e8a'
   let g:terminal_color_7 =  '#485154'
   let g:terminal_color_8 =  '#949494'
   let g:terminal_color_9 =  '#e07426'
@@ -59,7 +59,7 @@ if has('nvim')
   let g:terminal_color_11 = '#bfbfbf'
   let g:terminal_color_12 = '#657175'
   let g:terminal_color_13 = '#3b4245'
-  let g:terminal_color_14 = '#e05e85'
+  let g:terminal_color_14 = '#e05e8a'
   let g:terminal_color_15 = '#2e3436'
 endif
 
@@ -171,9 +171,9 @@ cal <sid>h('SpellCap'         , ''   , ''   , s:t0 , s:t9 , 'undercurl' , s:g9)
 cal <sid>h('Title'            , s:g9 , ''   , s:t9 , ''   , 'none'      , ''  )
 
 " YELLOW for highlighted elements
-cal <sid>h('DiffText'         , s:g6 , s:gA , s:t6 , s:tA , 'none'      , ''  )
-cal <sid>h('Search'           , s:g6 , s:gA , s:t6 , s:tA , 'none'      , ''  )
-cal <sid>h('Todo'             , s:g6 , s:gA , s:t6 , s:tA , 'none'      , ''  )
+cal <sid>h('DiffText'         , s:g5 , s:gA , s:t5 , s:tA , 'none'      , ''  )
+cal <sid>h('Search'           , s:g5 , s:gA , s:t5 , s:tA , 'none'      , ''  )
+cal <sid>h('Todo'             , s:g5 , s:gA , s:t5 , s:tA , 'none'      , ''  )
 
 " GREEN for action elements
 cal <sid>h('Conditional'      , s:gB , ''   , s:tB , ''   , ''          , ''  )
