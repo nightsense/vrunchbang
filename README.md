@@ -105,17 +105,17 @@ call plug#end()
     <tr>
       <td style="text-align: right"><img src="http://www.colorhexa.com/707e82.png" height="24" width="42" /> <code class="highlighter-rouge">707e82</code> </td>
       <td style="text-align: center"><img src="http://www.colorhexa.com/289e31.png" height="24" width="42" /> <code class="highlighter-rouge">289e31</code> </td>
-      <td style="text-align: left"><img src="http://www.colorhexa.com/5c8a60.png" height="24" width="42" /> <code class="highlighter-rouge">5c8a60</code></td>
+      <td style="text-align: left"><img src="http://www.colorhexa.com/508a55.png" height="24" width="42" /> <code class="highlighter-rouge">508a55</code></td>
     </tr>
     <tr>
       <td style="text-align: right"><img src="http://www.colorhexa.com/949494.png" height="24" width="42" /> <code class="highlighter-rouge">949494</code> </td>
       <td style="text-align: center"><img src="http://www.colorhexa.com/1b9e88.png" height="24" width="42" /> <code class="highlighter-rouge">1b9e88</code> </td>
-      <td style="text-align: left"><img src="http://www.colorhexa.com/4f9e91.png" height="24" width="42" /> <code class="highlighter-rouge">4f9e91</code></td>
+      <td style="text-align: left"><img src="http://www.colorhexa.com/458a7e.png" height="24" width="42" /> <code class="highlighter-rouge">458a7e</code></td>
     </tr>
     <tr>
       <td style="text-align: right"><img src="http://www.colorhexa.com/bfbfbf.png" height="24" width="42" /> <code class="highlighter-rouge">bfbfbf</code> </td>
       <td style="text-align: center"><img src="http://www.colorhexa.com/3083bf.png" height="24" width="42" /> <code class="highlighter-rouge">3083bf</code> </td>
-      <td style="text-align: left"><img src="http://www.colorhexa.com/5688ab.png" height="24" width="42" /> <code class="highlighter-rouge">5688ab</code></td>
+      <td style="text-align: left"><img src="http://www.colorhexa.com/4882ab.png" height="24" width="42" /> <code class="highlighter-rouge">4882ab</code></td>
     </tr>
     <tr>
       <td style="text-align: right"><img src="http://www.colorhexa.com/e0e0e0.png" height="24" width="42" /> <code class="highlighter-rouge">e0e0e0</code> </td>
