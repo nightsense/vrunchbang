@@ -80,6 +80,7 @@ set background=dark
 augroup ThemeSet
   autocmd!
   autocmd CursorMoved * execute 'if !exists("colors_name") |
+    \ let colors_name = "vrunchbang-dark" |
     \ colorscheme vrunchbang-dark | else |
     \ augroup ThemeSet | autocmd! | augroup END | endif'
 augroup END
