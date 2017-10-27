@@ -7,8 +7,8 @@
 <table>
 <tr><td align="center"><strong>vrunchbang-dark</strong></td><td align="center"><strong>vrunchbang-light</strong></td></tr>
 <tr>
-<td><img src="/img/screenshot-vrunchbang-dark.png" alt="screenshot of the vrunchbang-dark vim theme" width="360" /></td>
-<td align="center"><img src="/img/screenshot-vrunchbang-light.png" alt="screenshot of the vrunchbang-light vim theme" width="360" /></td>
+<td><img src="/img/screenshot-vrunchbang-dark.png" alt="screenshot of the vrunchbang-dark vim theme" width="180" /></td>
+<td align="center"><img src="/img/screenshot-vrunchbang-light.png" alt="screenshot of the vrunchbang-light vim theme" width="180" /></td>
 </tr>
 </table>
 
