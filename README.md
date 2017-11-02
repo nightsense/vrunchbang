@@ -77,7 +77,7 @@ let g:vrunchbang_light_LineNr = 'off'
 <blockquote>
   <ul>
     <li><strong>hues</strong> were selected at the scale of 1/48 (7.5°) colour wheel intervals</li>
-    <li><strong>saturations</strong> and <strong>values</strong> were adjusted at the scale of 1/12 and 1/24, respectively</li>
+    <li><strong>saturations</strong> and <strong>values</strong> were selected at the scale of 1/24 (4.17%)</li>
     <li>the <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head">ISO 3:1 contrast standard</a> is met by nearly all text/background combinations, exceptions being made for some transient-highlighted backgrounds (e.g. cursorcolumn, cursorline)</li>
   </ul>
 </blockquote>
