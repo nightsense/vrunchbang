@@ -1,3 +1,11 @@
+**Note: this repository is archived for now, though I may rebuild it from scratch at some point. My active vim theme is [snow](https://github.com/nightsense/snow).**
+
+.
+
+.
+
+.
+
 <h1 id="vrunchbang">vrunchbang</h1>
 
 <p>A vim theme inspired by <a href="https://distrowatch.com/table.php?distribution=crunchbang">CrunchBang</a> Linux (now <a href="https://www.bunsenlabs.org/">BunsenLabs</a>).</p>
